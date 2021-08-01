@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
   Suki Sahota (https://github.com/suki-sahota)
 - Jatin Kathuria (https://github.com/logeekical)
 - Satyam Kumar (https://)github.com/satyamkumar2302)
@@ -67,6 +67,7 @@ Srinivas Pudu
 - [Gico Carlo Evangelista] (https://github.com/RiceAbove)
 - [Brian Cimmino] (https://github.com/cimminob)
 - [Mario Codes](https://github.com/MarioCodes)
+- [Shambhavi Jha](https://github.com/shambhavi919)
 - [Jeremy Reed](https://github.com/jeremymreed)
 - [Folke Westergren] (https://github.com/f-westergren)
 - [JThissen] (https://github.com/JThissen)
